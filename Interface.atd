@@ -1,0 +1,4 @@
+type msg = {
+  subject: string;
+  ?body: string option;
+}
