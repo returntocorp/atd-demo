@@ -1,0 +1,9 @@
+*.cmi
+*.cmo
+*.cmx
+*.o
+*_t.ml*
+*_j.ml*
+__pycache__
+interface.py
+producer
